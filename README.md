@@ -1,2 +1,5 @@
-# cplusplus_tutorial
-My progress learning c++ programming language from scratch through CodeCademy
+# Programming language progress
+My progress learning programming languages:
+-C++
+-Java
+-python
